@@ -1,0 +1,6 @@
+{
+  "name": "Music Player & Snake Game",
+  "description": "A dark neon-styled Snake game with an integrated real-time synthesizer music player featuring multiple cyberpunk tracks and responsive visualizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
